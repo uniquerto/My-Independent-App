@@ -1,0 +1,112 @@
+.font {
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size:19px;
+}
+
+#myNavbar {
+   margin-bottom: 17px;
+}
+
+.welcome {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+    color:white;
+    margin-bottom: 35px;
+}
+
+.intro {
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    color:white;
+    margin-left: 23px;
+    font-size:25px;
+    margin-right:20px;
+}
+
+body {
+    background-color:#495057;
+}
+
+
+
+.image {
+    margin-right:40px;
+    margin-bottom: 20px;
+}
+
+.accesories {
+    margin-bottom:20px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    text-align: center;
+    font-size: 30px;
+}
+
+.header {
+    margin-bottom:20px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    text-align: center;
+    font-size: 40px;
+    color:white;
+    font-weight: 700;
+
+}
+
+.mheader {
+    text-align: center;
+    font-family: 'Balsamiq Sans', cursive;
+    font-size: 50px;
+    text-decoration: underline;
+    font-weight: bold;
+    color:white;
+    margin-bottom: 35px;
+}
+
+.list {
+    font-size:17px;
+    font-family: 'Balsamiq Sans', cursive;
+    color:white;
+
+}
+
+.mintro {
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    color:white;
+    margin-left: 15px;
+    font-size:22px;
+    margin-right:20px;
+}
+
+.ktext {
+
+    font-family:'Yanone Kaffeesatz', sans-serif;
+    font-size:22px;
+    margin-left: 500px;
+    color:white;
+}
+
+.klist {
+    font-size:17px;
+    font-family: 'Balsamiq Sans', cursive;
+    color:white;
+    margin-left:470px;
+
+}
+
+.move {
+    margin-left:300px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
